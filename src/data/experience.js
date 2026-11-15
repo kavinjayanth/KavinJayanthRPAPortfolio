@@ -5,7 +5,7 @@ export const experience = [
   {
     company: 'Cognizant',
     role: 'RPA Developer',
-    period: '[12th Nov 2026] – Present',
+    period: '[12th Nov 2024] – Present',
     location: 'Chennai, India',
     summary:
       'Building and maintaining automation solutions across Excel, email, file processing, database, web and AI-based workflows.',
