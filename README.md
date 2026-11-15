@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kavin Jayanth: RPA Developer Portfolio
 
 A responsive, dark-themed portfolio built with **React 18, Vite, Tailwind CSS, Framer Motion and Lucide icons**.
@@ -109,3 +110,7 @@ Using the CLI instead: `npm i -g vercel && vercel` (then `vercel --prod`).
 ## Customising the theme
 
 Colours and fonts are in `tailwind.config.js` (`ink` for blacks/charcoals, `accent` for electric blue). Shared button, card and chip styles are in `src/index.css`.
+=======
+# KavinJayanthRPAPortfolio
+My personal developer portfolio showcasing my expertise in RPA, Intelligent Automation, AI, and Software Development. Built with React.js, JavaScript, and Tailwind CSS, featuring my professional experience, technical skills, projects, and achievements.
+>>>>>>> 2ec70fd54579c40a8587f813f7bd7f8e9f2819e9
